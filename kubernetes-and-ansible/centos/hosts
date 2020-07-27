@@ -1,0 +1,6 @@
+[kubernetes-master-nodes]
+k8s-master.arwcloud.net ansible_host=10.24.84.25
+
+[kubernetes-worker-nodes]
+k8s-worker1.arwcloud.net ansible_host=10.24.84.26
+k8s-worker2.arwcloud.net ansible_host=10.24.84.35
